@@ -13,7 +13,7 @@ Web developer from Belgrade, Serbia. I run **[WizFlow](https://wizflowdev.com)**
 - **SOX**: a Kanban task app modeled on Microsoft Planner (React, Vite, Supabase), work in progress
 - **Arena Apartmani**: a Webflow redesign for an apartment rental business in Novi Sad
 - **zdravosutra.shop**: an online shop I built for a client
-- -**Trainday: in development
+- **Trainday: in development
 
 ## Tech
 `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Supabase` `PostgreSQL` `Webflow` `WordPress` `Git` `Netlify` `Astro`
